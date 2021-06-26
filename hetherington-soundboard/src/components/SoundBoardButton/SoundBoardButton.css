@@ -1,0 +1,17 @@
+button.sound-board-button {
+  width: 10%;
+  padding: 3em 1em;
+  background-color: #6272a4;
+  border: none;
+  border-radius: 1em;
+  color: #f8f8f2;
+  margin: 1em;
+  min-width: 20em;
+  transition: 0.5s;
+}
+
+button.sound-board-button:hover {
+  background-color: #44475a;
+  transition: 0.5s;
+  cursor: pointer;
+}
