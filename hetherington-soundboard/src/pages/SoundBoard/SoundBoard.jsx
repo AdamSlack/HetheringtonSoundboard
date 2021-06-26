@@ -21,9 +21,9 @@ export const SoundBoard = () => {
       key: `button_a_${idx}`
     },
     {
-      audioFileName: 'lol_what.mp3',
-      audioLabel: 'I don\'t even know',
-      audioDescription: 'You\'re gonna have to tell me what this means.',
+      audioFileName: 'slut_dragon.mp3',
+      audioLabel: 'Slut Dragon',
+      audioDescription: 'We are the slut dragons, who live in this slut cave, where we suck, fuck and eat butt.',
       key: `button_b_${idx}`
     }
   ])).flat();
